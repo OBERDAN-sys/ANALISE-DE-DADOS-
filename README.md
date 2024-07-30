@@ -1,13 +1,15 @@
 # ANÁLISE DE DADOS DAS LOJAS FAVORITAS, USANDO PYSPARK E PANDAS
 
-![image](https://github.com/user-attachments/assets/8591e128-649b-4680-b582-c16b984b7b76)
+![image](https://github.com/user-attachments/assets/493ae40c-66a6-4b07-b613-7d2c9c74b6be)
 
 # Objetivo de negócios
 
 Neste projeto temos um conjunto de dados com informações sobre as lojas Favorita e o objetivo é fazer análise exploratória de dados compreendendo serie temporais e 
 fornecer respostas às perguntas aqui levantadas para tanto utilizamos os frameworks pyspark, pandas e nunpy, bem como bibliotecas de visualizações. O projeto é 
 composto de duas etapas, incluindo comprensão do negócio e compreensão e análise dos dados.Essa composição é parte inicial da estrutura de 
-INTELIGENCIA ANALITICA DO BIG DATA PARA OS NEGÓCIOS.
+INTELIGENCIA ANALITICA DO BIG DATA PARA OS NEGÓCIOS, adaptado da  metodologia CRISP-DM ( Cross-Industry Standard Process for Data Mining ).
+
+![image](https://github.com/user-attachments/assets/8591e128-649b-4680-b582-c16b984b7b76)
 
 # Compreensão do negócio
 
